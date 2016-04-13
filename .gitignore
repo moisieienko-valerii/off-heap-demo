@@ -1,0 +1,19 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+*.iml
+
+target/
+.idea/
+
+*.*~
+*~
+*.DS_STORE
+
+*.log
+*.log.*
+*/log*
